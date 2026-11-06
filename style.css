@@ -2,15 +2,15 @@
 :root {
 --peach: #ECBEB4;
 --pink: #EABFCB;
---purple: #726E97;
+--purple: #5f5b81;
 --blue: #7698B3;
 --light-blue: #83B5D1;
 
 --background: #20202E;
 --background-light: #2B2B3D;
 --card-bg: #303044;
---text: #F9F5F5;
---text-light: #D8D6E2;
+--text: #ffffff;
+--text-light: #ffffff;
 --border-color: #4B4A63;
 
 --font-heading: "Space Grotesk", sans-serif;
